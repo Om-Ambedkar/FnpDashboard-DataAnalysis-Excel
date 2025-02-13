@@ -1,10 +1,8 @@
----
-
 **🚀 Ferns & Petals Sales Analysis**  
 **📊 Project Overview**  
 This project analyzes sales data for Ferns & Petals using Microsoft Excel with Power Query, Power Pivot, Data Modeling, and ETL (Extract, Transform, Load) techniques. The dataset is transformed and visualized using Pivot Tables, Charts, and interactive Dashboards to provide insights into revenue, customer behavior, and order trends.  
 
-👀 ![Preview Dashboard](Assets/FNPDashboardScreenshot.jpg)
+👀 ![Preview Dashboard](Assets/FNP Dashboard Screenshot.jpg)
 
 **📌 Features**  
 ✅ Revenue Trends – Monthly revenue analysis to identify peak sales periods.  
@@ -56,12 +54,9 @@ Conditional Formatting highlights significant trends and patterns.
 4️⃣ Analyze the charts and tables for deeper insights.
 
 **📌 Repository Structure**  
-📂 FNP-Sales-Analysis
-│── 📊 FNP Analysis.xlsx # Main Excel file with sales analysis
-│── 📷 FNP Dashboard Screenshot.jpg # Dashboard preview
-│── 📷 FNP Data Model.jpg # Data model visual
-│── 📄 FNP Problem Statement.pdf # Problem statement document
-│── 📜 README.md # Project documentation (this file)  
-
-
----
+📂 FNP-Sales-Analysis  
+│── 📊 FNP Analysis.xlsx # Main Excel file with sales analysis  
+│── 📷 FNP Dashboard Screenshot.jpg # Dashboard preview  
+│── 📷 FNP Data Model.jpg # Data model visual  
+│── 📄 FNP Problem Statement.pdf # Problem statement document  
+│── 📜 README.md # Project documentation (this file)
